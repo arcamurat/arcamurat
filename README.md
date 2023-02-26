@@ -1,4 +1,5 @@
 ### Hi there 👋
+    I am currently a student at the Department of Computer Science in Bilkent University.
 
 <!--
 **arcamurat/arcamurat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
